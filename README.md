@@ -5,8 +5,6 @@ It provides a simple way to implement user registration, login, and session mana
 
 The SDK follows MVVM architecture and separates the UI, business logic, and service layer to keep the code modular and reusable.
 
-⸻
-
 Features
 
 • User Registration using Email and Password
